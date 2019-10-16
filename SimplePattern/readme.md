@@ -26,4 +26,4 @@
 
 #### UML示例图
 
-![简单工厂示例](../DesignPatterns/Images/原型类型示意图.jpg)
+![简单工厂示例](Images/简单工厂.jpg)
